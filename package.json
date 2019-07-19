@@ -8,6 +8,9 @@
     "build": "parcel build src/*.html",
     "start": "parcel src/*.html"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
